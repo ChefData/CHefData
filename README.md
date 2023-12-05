@@ -2,11 +2,11 @@
 
 
 ### 👨‍💻 About me
-Studying to be a Data Engineer with AiCore
-- 🤓 Current project: Multinational Retail Data Centralisation.
-- 🏗️ A Civil Engineer graduate from Newcastle University, UK.
+- 🤓 Studying to be a Data Engineer with AiCore
+- 🚧 Current project: Multinational Retail Data Centralisation.
+- 🏗️ Got my masters in Civil Engineering from Newcastle University, UK.
 - 📈 Over ten years of experience as a trader in FOREX and Futures.
-- 👨‍🍳 I worked for three years in top Bristol restaurants to learn how to cook.
+- 👨‍🍳 I wanted to learn to cook, so I worked in the top Bristol restaurants for a while.
 - 📫 You can reach out to me on  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/nickwarmstrong)
 
 
@@ -15,11 +15,11 @@ Studying to be a Data Engineer with AiCore
  <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 
 
